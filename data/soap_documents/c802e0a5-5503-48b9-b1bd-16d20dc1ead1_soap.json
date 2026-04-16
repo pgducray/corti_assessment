@@ -1,0 +1,46 @@
+{
+  "id": "573c6770-9270-420c-ad2a-2343e2a30a5f",
+  "name": "SOAP Note",
+  "templateRef": "corti-soap",
+  "isStream": false,
+  "sections": [
+    {
+      "key": "corti-subjective",
+      "name": "Subjective",
+      "text": "The patient reports a preference to avoid medication for managing blood pressure, expressing a dislike for gym activities. However, the patient is open to increasing physical activity by walking up stairs at work and getting off the bus a few stops earlier. The patient's blood pressure was checked today and found to be borderline. The patient acknowledges the need to address this and is willing to explore lifestyle modifications as an alternative to medication.",
+      "sort": 1,
+      "createdAt": "2026-04-16T15:02:22.591964Z",
+      "updatedAt": "2026-04-16T15:02:22.591964Z"
+    },
+    {
+      "key": "corti-objective",
+      "name": "Objective",
+      "text": "Blood pressure: Borderline",
+      "sort": 2,
+      "createdAt": "2026-04-16T15:02:22.591964Z",
+      "updatedAt": "2026-04-16T15:02:22.591964Z"
+    },
+    {
+      "key": "corti-assessment",
+      "name": "Assessment",
+      "text": "Patient prefers non-pharmacological interventions. Borderline blood pressure noted. Consider increasing exercise to reduce blood pressure; patient willing to try walking up stairs at work and getting off bus a few stops earlier.",
+      "sort": 3,
+      "createdAt": "2026-04-16T15:02:22.591964Z",
+      "updatedAt": "2026-04-16T15:02:22.591964Z"
+    },
+    {
+      "key": "corti-plan",
+      "name": "Plan",
+      "text": "Patient willing to try walking up stairs at work.\nPatient willing to try getting off bus a few stops earlier.\nFollow-up appointment in six weeks to reassess blood pressure.",
+      "sort": 4,
+      "createdAt": "2026-04-16T15:02:22.591964Z",
+      "updatedAt": "2026-04-16T15:02:22.591964Z"
+    }
+  ],
+  "createdAt": "2026-04-16T15:02:22.591964Z",
+  "updatedAt": "2026-04-16T15:02:22.591964Z",
+  "outputLanguage": "en-US",
+  "usageInfo": {
+    "creditsConsumed": 0.027768
+  }
+}

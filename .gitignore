@@ -1,0 +1,51 @@
+# Environment variables
+.env
+.envrc
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data directories - Generated outputs
+data/transcripts/*.txt
+data/facts/*.json
+data/facts/*.txt
+
+# Keep sample data but ignore large audio files in root
+/*.mp3
+/*.wav
+/*.ogg
+/*.flac
+/*.m4a
+transcripts_text/
+
+# Logs
+*.log
+logs/
+
+# Docker
+.dockerignore
+
+# OS
+Thumbs.db
