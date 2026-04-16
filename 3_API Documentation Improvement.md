@@ -34,8 +34,9 @@ This reduces cognitive load and accelerates time-to-integration by presenting on
 - Expected performance benchmarks (latency ranges, accuracy metrics)
 - Sample KPIs mapped to business outcomes (Already provided in [Uses Cases](https://docs.corti.ai/get_started/dictation))
 - Pre/post integration measurement templates
+- Anonymized industry benchmarks showing performance ranges across Corti's client base (e.g., "Documentation time: 2-5 minutes for emergency calls, average 3.2 minutes")
 
-This gives developers concrete data points to prove value during internal evaluations.
+**Value of Industry Benchmarks**: Publishing aggregate performance data from deployed integrations gives developers realistic targets and helps stakeholders understand what's achievable. This peer comparison creates competitive motivation ("Our competitors reduced documentation time by 40%") while setting realistic expectations based on actual production use.
 
 ### 3. End-User Feedback Collection in SDKs
 
@@ -108,3 +109,18 @@ Provide an AI coding assistant that integrates directly with IDEs through plugin
 - Built-in security linting that flags credential exposure, insecure patterns, or deprecated methods
 
 This reduces context switching between IDE and documentation while reinforcing security best practices during development.
+
+
+### Process Mining & Workflow Intelligence
+
+Building on the industry benchmarking concept in the "Implementation Quick Wins & Success Metrics" section, Corti could provide process mining capabilities that help clients understand and optimize their clinical workflows.
+
+**Capability Overview**:
+- Map client workflows against industry-standard clinical process models (triage, emergency response, patient intake)
+- Track KPIs at each workflow stage (call duration, documentation completion time, handoff delays)
+- Generate process visualizations showing bottlenecks and inefficiencies
+- Benchmark client performance against anonymized cohort data by organization size, use case, or geography
+
+**Strategic Value**: This transforms Corti from a documentation tool into a workflow optimization platform. Clients gain visibility into where Corti delivers value across their entire operation, not just individual API calls. Process intelligence also creates stickiness - once clients rely on these insights for continuous improvement, switching costs increase significantly.
+
+**Implementation**: Leverage telemetry data already collected through API usage to construct process graphs. Use industry-standard frameworks (e.g., BPMN notation) to visualize workflows, making insights accessible to non-technical stakeholders like operations managers and clinical directors.
