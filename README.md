@@ -25,6 +25,12 @@ Demonstration of a complete API workflow for processing medical audio into clini
 │   └── soap_documents/    # Generated SOAP docs
 └── Test/                  # Original test scripts
 ```
+## Sample Data
+
+I downloaded audio file from the following Youtube video to build this prototype:
+- https://www.youtube.com/watch?v=4PoRzH6V9pU
+- https://www.youtube.com/watch?v=SerstX6D_CU&t=8s
+
 
 ## Setup
 

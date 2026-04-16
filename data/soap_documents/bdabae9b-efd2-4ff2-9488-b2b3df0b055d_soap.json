@@ -1,0 +1,46 @@
+{
+  "id": "ccc968aa-d729-49dd-839a-4ca30c7ca90a",
+  "name": "SOAP Note",
+  "templateRef": "corti-soap",
+  "isStream": false,
+  "sections": [
+    {
+      "key": "corti-subjective",
+      "name": "Subjective",
+      "text": "The patient, a thirty-nine-year-old individual, has been diagnosed with stage four breast cancer, which has metastasized to the lungs and bones. She has been undergoing palliative chemotherapy for the past four years and is currently on a fourth-line chemotherapy agent. Initially, she experienced arm pain, which was managed effectively, and she reports no current issues with arm pain. She has been admitted to the hospital for infections and chemotherapy treatments. Despite her condition, she enjoys outdoor activities and has a dog. Her partner supports her end-of-life care preferences.",
+      "sort": 1,
+      "createdAt": "2026-04-16T15:28:48.06915Z",
+      "updatedAt": "2026-04-16T15:28:48.06915Z"
+    },
+    {
+      "key": "corti-objective",
+      "name": "Objective",
+      "text": "Diagnosis: Stage four breast cancer with metastasis to lungs and bones\nChemotherapy: Fourth line agent ongoing\nPain Management: No current arm pain\nHospital Admission: History of admission for infections and chemotherapy\nTreatment Preferences: Intravenous treatments for pneumonia, open to blood transfusions\nCPR Preferences: Desired if reversible cause and good baseline function, not desired in natural dying process",
+      "sort": 2,
+      "createdAt": "2026-04-16T15:28:48.06915Z",
+      "updatedAt": "2026-04-16T15:28:48.06915Z"
+    },
+    {
+      "key": "corti-assessment",
+      "name": "Assessment",
+      "text": "Stage four breast cancer with metastasis to lungs and bones. Ongoing chemotherapy and effective pain management. Palliative care preferences include selective CPR and willingness for intravenous treatments.",
+      "sort": 3,
+      "createdAt": "2026-04-16T15:28:48.06915Z",
+      "updatedAt": "2026-04-16T15:28:48.06915Z"
+    },
+    {
+      "key": "corti-plan",
+      "name": "Plan",
+      "text": "Continue fourth line chemotherapy.\nAdminister intravenous treatments for pneumonia as needed.\nOpen to blood transfusions if required.\nCPR desired if reversible cause and good baseline function. No CPR desired in natural dying process.",
+      "sort": 4,
+      "createdAt": "2026-04-16T15:28:48.06915Z",
+      "updatedAt": "2026-04-16T15:28:48.06915Z"
+    }
+  ],
+  "createdAt": "2026-04-16T15:28:48.06915Z",
+  "updatedAt": "2026-04-16T15:28:48.06915Z",
+  "outputLanguage": "en-US",
+  "usageInfo": {
+    "creditsConsumed": 0.02784
+  }
+}
